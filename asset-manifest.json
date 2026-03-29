@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NeoCart-Hub/static/css/main.0e459c29.css",
+    "main.js": "/NeoCart-Hub/static/js/main.bfdbb4ca.js",
+    "index.html": "/NeoCart-Hub/index.html",
+    "main.0e459c29.css.map": "/NeoCart-Hub/static/css/main.0e459c29.css.map",
+    "main.bfdbb4ca.js.map": "/NeoCart-Hub/static/js/main.bfdbb4ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e459c29.css",
+    "static/js/main.bfdbb4ca.js"
+  ]
+}
